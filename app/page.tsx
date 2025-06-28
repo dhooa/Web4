@@ -31,4 +31,4 @@ export default function Home() {
       <Testimonials />
     </motion.div>
   );
-                      }
+}
