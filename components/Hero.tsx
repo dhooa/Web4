@@ -5,7 +5,7 @@ export function Hero() {
   return (
     <section
       className="relative h-[500px] bg-cover bg-center"
-      style={{ backgroundImage: 'url(https://unsplash.com/photos/a-hallway-with-wood-floors-ID8gqKuv1Ow' }}
+      style={{ backgroundImage: 'url(/images/penginapan.jpg)' }}
     >
       <div className="absolute inset-0 bg-green-coffee/60 flex items-center justify-center">
         <motion.div
