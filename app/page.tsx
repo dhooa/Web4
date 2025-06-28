@@ -23,8 +23,7 @@ export default function Home() {
             Selamat Datang di Shelter Haven
           </motion.h2>
           <p className="text-lg max-w-2xl mx-auto text-light-coffee">
-            Nikmati pengalaman menginap dengan nuansa green coffee yang menenangkan.
-            Pesan sekarang dan rasakan kenyamanan premium kami.
+            Nikmati pengalaman menginap dengan nuansa green coffee yang men奇妙な体験をしてください。
           </p>
         </div>
       </section>
